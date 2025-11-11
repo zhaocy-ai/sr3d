@@ -2,4 +2,4 @@
 
 * :fire: November, 2025. SR3D is accepted at AAAI 2026 Oral.
 
-Code will be released after the conference. We are still working on tiding the code for better readability.
+Code will come soon. We are still working on tiding the code for better readability.
